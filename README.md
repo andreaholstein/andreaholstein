@@ -44,7 +44,7 @@ Exceptionally charismatic, I love talking to people & discovering their needs �
 
 ## Where am I headed? 🚀
 
-Currently seeking full-time employment opportunities as a **Front-end Developer** 💻 or **Technical Product Manager** 🔁 & related roles, based **Remotely from Toronto, Canada**. 
+Currently seeking full-time employment opportunities as a **Solution Engineer** 🌟, **Front-end Developer** 💻 or **Technical Product Manager** 🔁, based **Remotely from Toronto, Canada**. 
 
 ## Let's connect 📫
 
