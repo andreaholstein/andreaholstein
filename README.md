@@ -10,10 +10,10 @@ Exceptionally charismatic, I love talking to people & discovering their needs �
 
 ## Standout Facts 💃
 
-- 🎓 Diploma in Software Engineering, Degree in Visual Arts & History, Certificates en communication française & 🌎Global Citizenship 
+- 🎓 Certificate in Data Science (in-progress!), Diploma in Software Engineering, Degree in Visual Arts & History, Certificates en communication française & 🌎Global Citizenship 
 - 👨‍💻 Founding developer at <a href="https://www.nomadworld.ai"> nomadworld.ai</a>
-- 💫 Background in digital strategy consultations, software sales & demos, workshop design & facilitation.
-- 🖥️ Tech-stack + Techniques: HTML, CSS (Sass), JavaScript, Axios, REST APIs, Web APls, React.js, Node.js, Python, Express, MySQL, User Authentication, OAuth, Heroku, Version  Control, Command Line Tools, Agile Methodologies + Scrums, JIRA, wire-framing + graphic design tools, video editing, game engines. 
+- 💫 Background in digital strategy consultations, software sales & demos, and workshop design & facilitation.
+- 🖥️ Tech-stack + Techniques: HTML, CSS (Sass), JavaScript, ActionScript, Python, SQL, SQLite, MySQL, Axios, REST APIs, Web APls, React.js, Node.js, Express, User Authentication, OAuth, Heroku, Version  Control, Command Line Tools, Agile Methodologies + Scrums, JIRA, wire-framing + graphic design tools, video editing, game engines. 
 - 🌱 Front-end focused, but deepening my backend knowledge to maximize my contributions to my teams.
 
 ## Toolkit 🛠️
