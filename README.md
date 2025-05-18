@@ -48,8 +48,8 @@ Currently seeking full-time employment opportunities as a **Solution Engineer** 
 
 ## Let's connect 📫
 
-<a href="https://github.com/andreaholstein/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jimbennett" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/andrea-holstein/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jim-bennett" height="30" width="40" /></a>
+<a href="https://github.com/andreaholstein/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="andrea-holstein" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andrea-holstein/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea-holstein" height="30" width="40" /></a>
 
 ## Trophies 🏆
 
